@@ -1,5 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/flying-turtle001/flying-turtle001/blob/master/assets/logo/sitesandnetwork/logo.png" width="800"/>  
+</div>
 
+# Welcome 👋
+My name is Justin and I am passionate about web development. 
+
+Starting with smaller WordPress projects, I wanted to develop steadily and have now found my way to Jamstack. In this context I was able to gain first experiences with JavaScript frameworks like Angular, Vue.js and React.js. I was particularly excited about working with Nuxt.js and Gatsby.js. Other topics like Headless CMS or general developments in HTML, CSS and JavaScript also arouse my interest.
+
+With my solutions I want to help companies to grow.
+
+Visit my website to learn more: [sitesandnetwork.com](https://sitesandnetwork.com/)
 <!--
 **flying-turtle001/flying-turtle001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
