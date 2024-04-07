@@ -4,13 +4,11 @@
 
 # Welcome 👋
 
-My name is Justin and I am passionate about web development.
+My name is Justin and I am a web developer from Germany.
 
-Starting with smaller WordPress projects, I wanted to develop steadily and have now found my way to Jamstack. In this context I was able to gain first experiences with JavaScript frameworks like Angular, Vue.js and React.js. I was particularly excited about working with Nuxt.js and Gatsby.js. Other topics like Headless CMS or general developments in HTML, CSS and JavaScript also arouse my interest.
+I am passionate about all topics related to web development. I particularly enjoy working with the JavaScript frameworks Vue.js and Nuxt.js, which have been part of my daily work for some time now.
 
-With my solutions I want to help companies to grow.
-
-Visit my website to learn more: [sitesandnetwork.com](https://sitesandnetwork.com/)
+Visit my website to find out more about me: [sitesandnetwork.com](https://sitesandnetwork.com/)
 
 ---
 
