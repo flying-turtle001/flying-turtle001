@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/flying-turtle001/flying-turtle001/blob/master/assets/logo/sitesandnetwork/logo.png" width="800"/>  
-</div>
-
 # Welcome 👋
 
 My name is Justin and I am a web developer from Germany.
@@ -28,12 +24,6 @@ Visit my website to find out more about me: [sitesandnetwork.com](https://sitesa
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flying-turtle001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
